@@ -1,0 +1,11 @@
+name: dna-image-quantum
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - qiskit==1.0.2
+    - matplotlib
+    - pylatexenc
+    - jupyterlab
