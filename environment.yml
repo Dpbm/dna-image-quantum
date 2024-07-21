@@ -9,3 +9,4 @@ dependencies:
     - matplotlib
     - pylatexenc
     - jupyterlab
+    - qiskit-aer
