@@ -12,4 +12,4 @@ Here, two approaches were taken:
 
 ![example second method](./second-method-example.png)
 
-for enlightment, take a look at the code [here](./example.ipynb)
+for enlightment, take a look at the code [here](./examples.ipynb)
